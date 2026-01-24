@@ -19999,3 +19999,103 @@ customer_id,tenure,monthly_charges,total_charges,contract,payment_method,interne
 19998,6,42.96,257.76,Month-to-month,Credit,Fiber,No,No,2,No
 19999,7,102.85,719.95,Month-to-month,Debit,DSL,Yes,No,2,No
 20000,31,44.84,1390.04,Two year,Credit,Fiber,Yes,No,1,Yes
+20001,2,96.40,192.80,Month-to-month,UPI,Fiber,No,No,5,Yes
+20002,6,88.70,532.20,Month-to-month,Credit,Fiber,No,No,4,Yes
+20003,4,102.10,408.40,Month-to-month,Debit,Fiber,No,No,6,Yes
+20004,9,91.30,821.70,Month-to-month,UPI,DSL,No,Yes,3,Yes
+20005,7,85.60,599.20,Month-to-month,Cash,Fiber,No,No,4,Yes
+20006,12,89.40,1072.80,Month-to-month,Debit,Fiber,No,No,3,Yes
+20007,5,97.80,489.00,Month-to-month,UPI,Fiber,No,No,6,Yes
+20008,3,104.50,313.50,Month-to-month,Credit,Fiber,No,No,7,Yes
+20009,8,92.60,740.80,Month-to-month,UPI,DSL,No,Yes,4,Yes
+20010,10,90.20,902.00,Month-to-month,Cash,Fiber,No,No,5,Yes
+20011,48,46.30,2222.40,Two year,Credit,DSL,Yes,Yes,0,No
+20012,60,55.90,3354.00,Two year,Debit,DSL,Yes,Yes,1,No
+20013,36,63.20,2275.20,One year,UPI,Fiber,Yes,No,1,No
+20014,24,58.70,1408.80,One year,Credit,DSL,Yes,Yes,2,No
+20015,72,66.10,4759.20,Two year,Cash,Fiber,Yes,Yes,0,No
+20016,54,49.80,2689.20,Two year,UPI,DSL,Yes,Yes,1,No
+20017,42,52.40,2200.80,One year,Credit,Fiber,Yes,Yes,2,No
+20018,30,47.90,1437.00,One year,Debit,DSL,Yes,Yes,1,No
+20019,18,44.60,802.80,One year,Credit,DSL,Yes,Yes,0,No
+20020,66,61.30,4045.80,Two year,Cash,Fiber,Yes,Yes,1,No
+20021,4,98.30,393.20,Month-to-month,UPI,Fiber,No,No,6,Yes
+20022,6,94.70,568.20,Month-to-month,Credit,Fiber,No,No,5,Yes
+20023,9,89.90,809.10,Month-to-month,Debit,DSL,No,Yes,4,Yes
+20024,2,101.80,203.60,Month-to-month,UPI,Fiber,No,No,7,Yes
+20025,11,87.40,961.40,Month-to-month,Cash,Fiber,No,No,3,Yes
+20026,48,53.10,2548.80,Two year,Credit,DSL,Yes,Yes,1,No
+20027,36,60.40,2174.40,One year,UPI,Fiber,Yes,Yes,0,No
+20028,24,57.20,1372.80,One year,Debit,DSL,Yes,Yes,2,No
+20029,60,64.80,3888.00,Two year,Credit,Fiber,Yes,Yes,1,No
+20030,72,69.50,5004.00,Two year,Cash,Fiber,Yes,Yes,0,No
+20031,3,99.10,297.30,Month-to-month,UPI,Fiber,No,No,6,Yes
+20032,7,92.80,649.60,Month-to-month,Credit,Fiber,No,No,4,Yes
+20033,5,95.60,478.00,Month-to-month,Debit,Fiber,No,No,5,Yes
+20034,10,90.50,905.00,Month-to-month,UPI,DSL,No,Yes,3,Yes
+20035,8,87.20,697.60,Month-to-month,Cash,Fiber,No,No,4,Yes
+20036,54,50.60,2732.40,Two year,Credit,DSL,Yes,Yes,1,No
+20037,42,55.10,2314.20,One year,UPI,Fiber,Yes,Yes,2,No
+20038,30,48.30,1449.00,One year,Debit,DSL,Yes,Yes,1,No
+20039,18,45.70,822.60,One year,Credit,DSL,Yes,Yes,0,No
+20040,66,62.40,4118.40,Two year,Cash,Fiber,Yes,Yes,1,No
+20041,4,97.90,391.60,Month-to-month,UPI,Fiber,No,No,6,Yes
+20042,6,93.50,561.00,Month-to-month,Credit,Fiber,No,No,5,Yes
+20043,9,88.80,799.20,Month-to-month,Debit,DSL,No,Yes,4,Yes
+20044,2,100.60,201.20,Month-to-month,UPI,Fiber,No,No,7,Yes
+20045,11,86.90,955.90,Month-to-month,Cash,Fiber,No,No,3,Yes
+20046,48,54.20,2601.60,Two year,Credit,DSL,Yes,Yes,1,No
+20047,36,61.70,2221.20,One year,UPI,Fiber,Yes,Yes,0,No
+20048,24,56.80,1363.20,One year,Debit,DSL,Yes,Yes,2,No
+20049,60,63.90,3834.00,Two year,Credit,Fiber,Yes,Yes,1,No
+20050,72,68.40,4924.80,Two year,Cash,Fiber,Yes,Yes,0,No
+20051,60,62.10,3726.00,Two year,Credit,Fiber,Yes,Yes,1,No
+20052,48,55.40,2659.20,One year,UPI,DSL,Yes,Yes,1,No
+20053,72,67.80,4881.60,Two year,Cash,Fiber,Yes,Yes,0,No
+20054,54,58.20,3142.80,Two year,Debit,DSL,Yes,Yes,1,No
+20055,36,52.60,1893.60,One year,Credit,Fiber,Yes,Yes,2,No
+20056,66,64.90,4283.40,Two year,Cash,Fiber,Yes,Yes,0,No
+20057,42,56.30,2364.60,One year,UPI,DSL,Yes,Yes,1,No
+20058,30,49.80,1494.00,One year,Debit,DSL,Yes,Yes,2,No
+20059,72,69.20,4982.40,Two year,Credit,Fiber,Yes,Yes,0,No
+20060,24,54.10,1298.40,One year,Cash,DSL,Yes,Yes,2,No
+20061,60,61.70,3702.00,Two year,UPI,Fiber,Yes,Yes,1,No
+20062,48,57.90,2779.20,One year,Debit,DSL,Yes,Yes,1,No
+20063,72,68.30,4917.60,Two year,Credit,Fiber,Yes,Yes,0,No
+20064,54,59.40,3207.60,Two year,Cash,DSL,Yes,Yes,1,No
+20065,36,53.80,1936.80,One year,UPI,Fiber,Yes,Yes,2,No
+20066,66,65.10,4296.60,Two year,Debit,Fiber,Yes,Yes,0,No
+20067,42,57.60,2419.20,One year,Credit,DSL,Yes,Yes,1,No
+20068,30,50.90,1527.00,One year,Cash,DSL,Yes,Yes,2,No
+20069,72,70.10,5047.20,Two year,UPI,Fiber,Yes,Yes,0,No
+20070,24,55.30,1327.20,One year,Debit,DSL,Yes,Yes,2,No
+20071,60,63.40,3804.00,Two year,Credit,Fiber,Yes,Yes,1,No
+20072,48,58.60,2812.80,One year,Cash,DSL,Yes,Yes,1,No
+20073,72,69.90,5032.80,Two year,UPI,Fiber,Yes,Yes,0,No
+20074,54,60.10,3245.40,Two year,Debit,DSL,Yes,Yes,1,No
+20075,36,54.70,1969.20,One year,Credit,Fiber,Yes,Yes,2,No
+20076,66,66.20,4369.20,Two year,Cash,Fiber,Yes,Yes,0,No
+20077,42,58.80,2469.60,One year,UPI,DSL,Yes,Yes,1,No
+20078,30,51.60,1548.00,One year,Debit,DSL,Yes,Yes,2,No
+20079,72,70.80,5097.60,Two year,Credit,Fiber,Yes,Yes,0,No
+20080,24,56.40,1353.60,One year,Cash,DSL,Yes,Yes,2,No
+20081,60,64.20,3852.00,Two year,UPI,Fiber,Yes,Yes,1,No
+20082,48,59.80,2870.40,One year,Debit,DSL,Yes,Yes,1,No
+20083,72,71.30,5133.60,Two year,Credit,Fiber,Yes,Yes,0,No
+20084,54,61.20,3304.80,Two year,Cash,DSL,Yes,Yes,1,No
+20085,36,55.90,2012.40,One year,UPI,Fiber,Yes,Yes,2,No
+20086,66,67.40,4448.40,Two year,Debit,Fiber,Yes,Yes,0,No
+20087,42,59.90,2515.80,One year,Credit,DSL,Yes,Yes,1,No
+20088,30,52.70,1581.00,One year,Cash,DSL,Yes,Yes,2,No
+20089,72,72.00,5184.00,Two year,UPI,Fiber,Yes,Yes,0,No
+20090,24,57.60,1382.40,One year,Debit,DSL,Yes,Yes,2,No
+20091,60,65.30,3918.00,Two year,Credit,Fiber,Yes,Yes,1,No
+20092,48,60.70,2913.60,One year,Cash,DSL,Yes,Yes,1,No
+20093,72,72.80,5241.60,Two year,UPI,Fiber,Yes,Yes,0,No
+20094,54,62.40,3369.60,Two year,Debit,DSL,Yes,Yes,1,No
+20095,36,56.80,2044.80,One year,Credit,Fiber,Yes,Yes,2,No
+20096,66,68.50,4521.00,Two year,Cash,Fiber,Yes,Yes,0,No
+20097,42,61.10,2566.20,One year,UPI,DSL,Yes,Yes,1,No
+20098,30,53.80,1614.00,One year,Debit,DSL,Yes,Yes,2,No
+20099,72,73.40,5284.80,Two year,Credit,Fiber,Yes,Yes,0,No
+20100,24,58.90,1413.60,One year,Cash,DSL,Yes,Yes,2,No
