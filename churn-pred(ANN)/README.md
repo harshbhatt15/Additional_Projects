@@ -36,3 +36,24 @@ Target Variable:
 Exited
 0 → Customer stays
 1 → Customer leaves the bank
+
+---
+
+## Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- TensorFlow
+- Keras
+- Artificial Neural Networks
+- Autoencoders
+
+---
+
+Author
+
+Harsh Bhatt
+BCA Student
+Monark University
