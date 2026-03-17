@@ -45,8 +45,7 @@ Exited
 - Pandas
 - NumPy
 - Scikit-learn
-- TensorFlow
-- Keras
+- TensorFlow/keras
 - Artificial Neural Networks
 - Autoencoders
 
