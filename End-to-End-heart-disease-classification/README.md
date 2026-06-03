@@ -117,7 +117,6 @@ Proper preprocessing ensures that models receive **clean and well-conditioned in
 - Pandas  
 - Scikit-learn  
 - Matplotlib  
-- Seaborn  
 - Jupyter Notebook  
 
 ---
