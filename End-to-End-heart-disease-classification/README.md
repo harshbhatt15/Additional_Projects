@@ -124,7 +124,5 @@ Proper preprocessing ensures that models receive **clean and well-conditioned in
 ## 👨‍🎓 Author
 
 **Harsh Bhatt**  
-Bachelor of Computer Applications (BCA)  
-Machine Learning & Data Science Enthusiast  
 
 ---
