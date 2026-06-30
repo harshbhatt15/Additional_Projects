@@ -34,8 +34,6 @@ The following EDA steps were performed:
 - Observing feature distributions and class overlap  
 - Performing correlation analysis to assess linear separability  
 
-EDA helps in understanding data characteristics and selecting suitable models.
-
 ---
 
 ## 🛠️ Tools & Technologies
