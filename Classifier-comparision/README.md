@@ -51,7 +51,5 @@ EDA helps in understanding data characteristics and selecting suitable models.
 ## 👨‍🎓 Author
 
 **Harsh Bhatt**  
-Bachelor of Computer Applications (BCA)  
-Machine Learning & Data Science Enthusiast  
 
 ---
