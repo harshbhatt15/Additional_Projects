@@ -116,6 +116,5 @@ These measures help **quantify observations** discovered through visual analysis
 
 **Harsh Bhatt**  
 Bachelor of Computer Applications (BCA)  
-Machine Learning & Data Analytics Enthusiast  
 
 ---
